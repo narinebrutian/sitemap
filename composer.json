@@ -1,0 +1,15 @@
+{
+  "name": "narinebrutian/sitemap-generator",
+  "description": "Sitemap generator for a website (XML/JSON/CSV).",
+  "type": "library",
+  "require": {
+    "php": ">=5.3.0"
+  },
+  "authors": [
+    {
+      "name": "Narine Brutian",
+      "email": "narine.brutyan.17@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev"
+}
